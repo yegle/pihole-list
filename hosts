@@ -21,6 +21,8 @@ grafana.com
 hh.prod.sonyentertainmentnetwork.com
 loc.map.baidu.com
 log.tbs.qq.com
+logservice.hicloud.com
+logservice1.hicloud.com
 metrics.icloud.com
 metrics1.data.hicloud.com
 mon.snssdk.com
@@ -31,6 +33,7 @@ platform.instagram.com
 platform.twitter.com
 ps-766.pubnub.com
 redirect.networkbench.com
+rnd-apr-us.huawei.com
 smartasset.com
 sugar.zhihu.com
 tealium.cbsnews.com
